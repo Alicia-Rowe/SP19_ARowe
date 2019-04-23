@@ -1,0 +1,39 @@
+body{
+    margin:100;
+    padding:100;
+    background-size: 3000px
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    background: #ffffff;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+.price{
+    color: black;
+    font-size: 25px;
+}
+.card button {
+    border: none;
+    outline: 0;
+    padding: 20px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 25px;
+}
+.card button:hover {
+    opaccity: 0.7;
+}
+#imagery{
+    width: 400px;
+    padding: 10px
+}
+.centered{
+    display:block;
+    margin: 0 auto;
+}

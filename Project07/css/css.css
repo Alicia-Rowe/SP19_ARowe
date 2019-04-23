@@ -1,0 +1,103 @@
+body{
+	margin:100;
+    padding:100;
+    background-color: black
+}
+
+.about-body {
+  width: 60%;
+  margin: 0 auto;
+  display: block;
+  color: black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+  background: #FFFFFF;
+  outline: 3px;
+  border: 5px;
+  border-style: solid;
+  padding: 20px;
+}
+
+.section-title {
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 50px;
+  display: block;
+  font-weight:normal;
+  margin: 20px 0; 
+  text-align: Center;
+}
+
+.bio{
+	text-align: center;
+}
+
+.table{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+}
+
+.tickets {
+  width: 80%;
+  margin: 0 auto;
+  display: block;
+  color: black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+  background: #FFFFFF;
+  outline: 3px;
+  border: 5px;
+  border-style: solid;
+  padding: 20px;
+}
+
+#imagery{
+    width: 300px;
+	padding-top: 10px;
+}
+
+.centered{
+    display:block;
+    margin: 0 auto;
+}
+
+#hero-image {
+  width: 60%;	
+}
+
+#footer-image {
+  width: 90%;
+}
+
+#cast-image{
+	width: 250px;
+}
+
+#gallery{
+	width: 300px;
+}
+
+#ticket-image {
+  width: 100%;	
+}
+
+.button{
+	border: none;
+    outline: 0;
+    padding: 10px;
+    color: black;
+    background-color: #FFFFFF;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 40px;
+}
+
+.ticket-button{
+	border: none;
+    outline: 0;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 40px;
+}

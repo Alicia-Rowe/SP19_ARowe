@@ -1,0 +1,64 @@
+body{
+    margin:100;
+    padding:100;
+    background-size: 400px;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    background: #bbb4a2;
+    outline: 3px solid black;
+    outline-offset: -20px;
+    border: 5px;
+    border-style: solid;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+.header{
+    color: black;
+    font-size: 22px;
+}
+.subheader{
+    color: black;
+    font-size: 42px;
+}
+.infoAreaOne{
+    color: black;
+    font-size: 22px;
+}
+#graphicDivider{
+    width: 325px;
+    padding: 10px
+}
+.infoAreaTwo{
+    color: black;
+    font-size: 20px;
+}
+.infoAreaThree{
+    color: black;
+    font-size: 18px;
+}
+.infoAreaFour{
+    color: black;
+    font-size: 18px;
+}
+.card button {
+    border: none;
+    outline: 0;
+    padding: 20px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 28px;
+}
+#imagery{
+    width: 400px;
+    padding: 10px
+}
+.centered{
+    display:block;
+    margin: 0 auto;
+}
